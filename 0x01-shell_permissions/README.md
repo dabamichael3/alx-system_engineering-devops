@@ -15,5 +15,6 @@ The file hello will be in the working directory You are not allowed to use comma
 10,rite a script that sets the mode of the file hello to this:
 11,Write a script that sets the mode of the file hello the same as olleh’s mode.
 
-The file hello will be in the working directory
-The file olleh will be in the working directory
+12,The file hello will be in the working directory
+13,The file olleh will be in the working directory
+14,Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
